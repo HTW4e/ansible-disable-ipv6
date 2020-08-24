@@ -5,12 +5,12 @@ Ansible role to disable IPv6 on a Linux and/or FreeBSD host
 
 Supported / Testes OS
 ---------------------
-- CentOS 7/8
-- RHEL 7/8
+- CentOS 7 / 8
+- RHEL 7 / 8
 - Fedora 32
 - Debian 10
-- Ubuntu 18.04/20.04
-- FreeBSD 11/12
+- Ubuntu 18.04 / 20.04
+- FreeBSD 11 / 12
 
 Requirements
 ------------
