@@ -3,7 +3,7 @@ Ansible Disable IPv6
 
 Ansible role to disable IPv6 on a Linux and/or FreeBSD host
 
-Supported / Testes OS
+Supported / Tested OS
 ---------------------
 - CentOS 7 / 8
 - RHEL 7 / 8
